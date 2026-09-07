@@ -11,5 +11,5 @@ Um aplicativo web simples e eficiente desenvolvido em Python utilizando o framew
 
 1. **Clone o repositório:**
    ```bash
-   git clone [https://github.com/SEU_USUARIO/encurtador-url-python.git](https://github.com/SEU_USUARIO/encurtador-url-python.git)
-   cd encurtador-url-python
+git clone https://github.com/adrianoabc786-prog/encurtador-url-python.git
+cd encurtador-url-python
