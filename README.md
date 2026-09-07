@@ -10,5 +10,6 @@ Um aplicativo web simples e eficiente desenvolvido em Python utilizando o framew
 ## ⚙️ Como Executar o Projeto Localmente
 
 1. **Clone o repositório:**
-   ```bash git clone https://github.com/adrianoabc786-prog/encurtador-url-python.git
-cd encurtador-url-python
+   ```bash
+   git clone [https://github.com/adrianoabc786-prog/encurtador-url-python.git](https://github.com/adrianoabc786-prog/encurtador-url-python.git)
+   cd encurtador-url-python
